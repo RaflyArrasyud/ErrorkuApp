@@ -1,0 +1,12 @@
+{
+  "name": "Errorku",
+  "description": "Platform AI yang membantu programmer pemula memahami error coding dalam bahasa yang sederhana dan manusiawi.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI Error Analysis",
+    "Multi-language Support",
+    "Interactive Debugging Mentor"
+  ]
+}
